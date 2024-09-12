@@ -1,7 +1,7 @@
 // frontend/src/App.js
 import React from 'react';
 
-function App() {
+function app() {
   return (
     <div className="App">
       <h1>Hello from React!</h1>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default app;
